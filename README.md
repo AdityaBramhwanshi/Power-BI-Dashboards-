@@ -22,12 +22,12 @@ Data Cleaning using Google Sheets
 
 Key Features of Dashboard :
 
-✔ KPI cards showing total sales, profit, orders, and margin
-✔ Monthly sales trend visualization
-✔ Regional performance comparison
-✔ Category and sub-category profitability analysis
-✔ Customer segmentation insights
-✔ Interactive slicers for dynamic filtering
+KPI cards showing total sales, profit, orders, and margin
+Monthly sales trend visualization
+Regional performance comparison
+Category and sub-category profitability analysis
+Customer segmentation insights
+Interactive slicers for dynamic filtering
 
 Business Insights Generated : 
 
