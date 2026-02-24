@@ -1,0 +1,43 @@
+Netflix Global Content Insights Dashboard
+
+This project presents an interactive Power BI dashboard analyzing the global content catalog of Netflix to uncover trends in content growth, audience targeting, and geographic distribution.
+The goal of this project is to demonstrate how business intelligence tools can transform raw entertainment data into actionable insights about platform strategy and viewer focus.
+
+The dataset used in this analysis was sourced from Kaggle and cleaned using Power Query before being modeled and visualized in Microsoft Power BI.
+
+Project Objectives :
+
+-Analyze how Netflix’s content library has evolved over time
+-Identify differences in growth between movies and TV shows
+-Explore how content is distributed globally
+-Examine rating patterns to understand audience targeting
+-Identify dominant genres shaping the platform’s catalog
+
+Tools & Technologies Used :
+
+-Power BI (dashboard design and visualization)
+-Power Query (data cleaning and transformation)
+-DAX (KPI creation and calculated measures)
+
+Key Insights :
+
+-Netflix experienced rapid catalog expansion after 2015, indicating aggressive global growth and investment in content production.
+-Movies make up the largest share of titles, but TV shows show consistent long-term growth, reflecting Netflix’s increasing focus on binge-worthy serialized content.
+-Mature audience ratings such as TV-MA and TV-14 dominate the platform, suggesting a strong focus on adult and young-adult demographics.
+-Drama, documentaries, and international content are among the most common genres, highlighting Netflix’s emphasis on storytelling diversity and global reach.
+-Content production is heavily concentrated in North America, Europe, and Asia, showing where Netflix’s strongest production ecosystems exist.
+
+What This Project Demonstrates :
+
+-This dashboard showcases practical data analyst skills including:
+-Cleaning and restructuring messy categorical data
+-Creating meaningful KPIs using DAX
+-Designing intuitive and interactive dashboards
+-Building visual hierarchy for storytelling
+-Translating data into business-focused insights
+
+Project Files Included :
+
+-Power BI Dashboard file (.pbix)
+-Original dataset (.csv)
+-Dashboard screenshots for preview
