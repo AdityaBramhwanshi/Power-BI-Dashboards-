@@ -1,0 +1,34 @@
+Project Title 
+
+Employee Performance & Workforce Insights Dashboard – Power BI
+
+Description :
+
+This project presents a Power BI dashboard designed to analyze employee performance, training effectiveness, 
+and workforce productivity.
+
+The dashboard helps HR teams:
+
+-Identify high-performing departments
+-Evaluate training outcomes across experience levels
+-Analyze recruitment channel effectiveness
+-Monitor KPI achievement and recognition trends
+
+📌 Tools Used
+
+-Power BI
+-DAX for calculated measures
+-Data cleaning and transformation
+-Google Sheet 
+
+📌 Key Insights
+
+-Performance distribution varies across departments
+-Training outcomes remain consistent across experience levels
+-Recruitment sources influence workforce quality (Reference , Other , Source )
+-KPI achievement trends highlight productive teams
+
+📌 Business Value
+
+The dashboard enables HR decision-makers to improve employee development strategies, 
+optimize hiring sources, and strengthen performance management frameworks.
