@@ -1,0 +1,135 @@
+Project Title :
+
+Indian Startup Funding Analysis Dashboard
+
+A data analytics project analyzing startup funding trends in India using Power BI to identify leading industries, 
+startup hubs, and investor activity patterns.
+
+Project Overview :
+
+Startup funding plays a crucial role in driving innovation, entrepreneurship, and economic growth.
+Understanding how capital flows into startups helps investors, founders, and policymakers identify high-growth sectors 
+and emerging startup ecosystems.
+
+This project analyzes Indian startup funding trends using data visualization and business intelligence techniques to help 
+stakeholders identify:
+
+-leading industries attracting investment
+-major startup hubs in India
+-active investors and funding patterns
+-trends in startup funding growth
+
+Analysis Required for :
+
+The rapid growth of the startup ecosystem has resulted in large volumes of funding data, but stakeholders often lack 
+clear insights into:
+
+-Which industries attract the most investment
+-Which cities dominate startup activity
+-Which investors are most active in funding startups
+-How funding trends evolve over time
+-What types of funding rounds are most common
+
+Project Objectives :
+
+The objective of this project is to build an interactive Power BI dashboard that helps stakeholders:
+
+-measure the overall scale of startup investments
+-identify industries receiving the highest funding
+-analyze startup funding distribution across cities
+-understand investor participation and activity levels
+-explore trends in startup funding growth over time
+
+Dataset :
+
+Source: Kaggle
+
+Dataset: Indian Startup Funding Dataset
+
+The dataset contains startup funding information including:
+
+-Startup Name
+-Industry Sector
+-City Location
+-Investor Names
+-Investment Type
+-Funding Amount
+-Funding Date
+-Year of Investment
+
+Tools & Technologies Used :
+
+-Microsoft Power BI
+-DAX (Data Analysis Expressions)
+-Google Sheets (Data Cleaning)
+-Data Visualization
+-Business Intelligence
+
+Dashboard KPIs :
+
+The dashboard tracks key startup ecosystem metrics including:
+
+-Total Funding Raised
+-Total Startups Funded
+-Total Investors
+-Average Funding per Startup
+-Active Startup Cities
+-Funding Growth Rate
+
+These KPIs provide a high-level overview of startup investment activity and ecosystem growth.
+
+Key Insights :
+1️⃣ Strong Startup Investment Activity
+
+Indian startups attracted $28.64B in funding across 1,156 startups from 1,137 investors, highlighting strong venture capital 
+participation.
+
+2️⃣ Significant Capital per Startup
+
+The average funding per startup is $24.78M, indicating substantial investment to support scaling and market expansion.
+
+3️⃣ Major Startup Hubs in India
+
+Startup funding activity spans 67 cities, though Bangalore, Mumbai, and Gurgaon dominate as primary startup ecosystems.
+
+4️⃣ Rapid Growth Followed by Slight Slowdown
+
+Funding increased significantly between 2016 and 2019, before showing a slight decline (-0.96%) in the most recent period.
+
+5️⃣ Digital Industries Receive the Most Investment
+
+E-commerce and Consumer Internet startups attract the highest levels of funding, reflecting strong investor interest in 
+digital platforms.
+
+6️⃣ Investor Participation is Highly Concentrated
+
+A relatively small group of investors, including WestBridge Capital and SoftBank, contribute significantly to startup 
+investments.
+
+7️⃣ Early-Stage and Growth Funding Are Both Active
+
+Private equity and seed funding rounds dominate the investment distribution, indicating strong activity across different 
+startup growth stages.
+
+Business Recommendations :
+
+Based on the insights, the following strategic observations can be made:
+
+-focus investment research on high-growth digital industries
+-identify opportunities in emerging startup cities beyond major hubs
+-monitor funding trends to understand investment cycles
+-track investor activity to identify key market influencers
+-support early-stage startups with scalable business models
+
+Project Impact :
+
+This dashboard enables stakeholders to:
+
+-identify leading startup sectors and innovation trends
+-understand geographic concentration of startup ecosystems
+-analyze investor participation patterns
+-monitor startup funding growth over time
+-support data-driven investment and entrepreneurial decisions
+
+The insights generated from this analysis provide valuable understanding of India’s evolving startup ecosystem and venture 
+capital landscape.
