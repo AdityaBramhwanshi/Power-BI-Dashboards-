@@ -1,0 +1,194 @@
+Project Overview :
+
+Burnout and mental health deterioration have become a silent crisis in the global tech industry, directly impacting employee 
+productivity, retention, and organizational performance.
+
+This project analyzes mental health and burnout data of tech employees using Power BI to help stakeholders understand:
+
+-Burnout patterns across job roles and work modes
+-Therapy access vs actual usage gap
+-The influence of stress, sleep, and work hours on burnout 
+-Which segments are at highest risk of attrition
+The dashboard provides a comprehensive view of workforce mental health to support data-driven HR and leadership decisions.
+---
+Business Problem :
+Organizations in the tech industry are investing in remote work, competitive salaries, and mental health benefits — 
+yet burnout continues to rise in 2026.
+
+The core challenge is that companies lack clear insights into:
+
+-Which job roles and work modes have the highest burnout risk
+-Why employees with therapy access still don't use it
+-How burnout directly connects to attrition and financial loss
+-Which behavioral and clinical signals indicate a high-risk employee
+
+Without these insights:
+
+-Mental health resources are misallocated
+-High-risk employees go unidentified until they resign
+-Attrition costs remain invisible to leadership
+-Interventions remain generic instead of targeted
+---
+Stakeholder Expectations :
+
+Different stakeholders expect different insights from the dashboard:
+1. Executives (CEO / CHRO)
+They want:
+
+-Overall burnout severity across the workforce
+-Attrition risk and financial impact
+-High-level overview of mental health trends
+
+2. HR & People Teams
+They want:
+-Which roles and departments need intervention first
+-Therapy access and utilization gap analysis
+-Demographic breakdown of burnout patterns
+
+3. Mental Health Researchers
+They want:
+-Clinical score analysis (PHQ-9 and GAD-7)
+-Behavioral correlations — sleep, stress, hours worked
+-Evidence-based patterns across geographies
+
+---
+Project Objectives :
+
+The objective of this project is to build an interactive Power BI dashboard that helps organizations:
+
+-Track burnout severity across 100,000 tech employees
+-Analyze the therapy access gap — who has it vs who uses it
+-Understand the impact of work mode on mental health outcomes
+-Connect burnout data directly to job change intention and attrition risk
+-Support targeted, data-backed mental health interventions
+---
+Dataset :
+
+Source: Kaggle
+Dataset: Mental Health Burnout Tech 2026
+The dataset contains employee and mental health related information including:
+-Employee ID
+-Age and Gender
+-Country
+-Job Role and Seniority Level
+-Work Mode (Remote / Hybrid / On-site)
+-Salary (USD)
+-Work Hours Per Week
+-Sleep Hours Per Night
+-Therapy Access and Usage
+-Burnout Score and Burnout Level
+-Stress Score
+-PHQ-9 Score and Category (Depression)
+-GAD-7 Score and Category (Anxiety)
+-Job Change Intention
+---
+Tools & Technologies Used :
+
+-Microsoft Power BI
+-DAX (Data Analysis Expressions)
+-MySQL Workbench
+-Data Cleaning
+-Data Visualization
+-Business Intelligence
+---
+Dashboard KPIs :
+
+The dashboard tracks key workforce mental health metrics including:
+-Total Employees (100K)
+-High Severe Burnout Rate (47.94%)
+-Therapy Access Gap Rate (55.42%)
+-Job Change Intention Rate (32.00%)
+-Average Burnout Score (5.40)
+
+These KPIs provide a high-level overview of burnout severity, support utilization, and attrition risk across the tech workforce.
+---
+Key Insights :
+
+1. Nearly Half the Tech Workforce Is in Crisis
+The dashboard shows that 47.94% of employees fall under High or Severe burnout — the top two clinical categories.
+
+This suggests:
+-Burnout is not limited to specific roles — it is systemic across the industry
+-Nearly 1 in 2 tech employees is experiencing clinically concerning levels of mental health deterioration
+
+2. Remote Work Is Driving the Highest Burnout
+Remote employees show the highest average burnout score (5.48), followed by Hybrid (5.43) and On-site (5.25).
+
+This indicates:
+-Flexibility without structure does not improve wellbeing
+-Unmanaged remote work — without async boundaries or reduced meeting load — increases burnout risk
+
+3. Therapy Access Gap Is the Most Critical Finding
+Of all employees surveyed:
+
+-65.9% have no therapy access at all
+-Of those who do have access — 55.4% still don't use it
+-Only 15.2% actually have access and are actively using therapy
+
+This clearly shows:
+
+-The barrier is not budget or availability — it is stigma and workplace culture
+-Providing access alone is not enough — utilization requires psychological safety
+
+4. Burnout Directly Drives Attrition
+From the Job Change Intention by Burnout Level analysis:
+
+-Severe burnout group has the highest intention to quit (~25,800 employees)
+-As burnout level decreases, job change intention decreases proportionally
+
+This indicates:
+
+-Burnout is the primary driver of attrition in tech
+-Replacing one engineer costs 6 to 9 times their monthly salary — making this a financial emergency
+
+5. Product Managers and Backend Developers Are Most Burned Out
+
+Job role burnout ranking by average score:
+
+-Product Manager — 5.45
+-Backend Developer — 5.44
+-Frontend Developer — 5.42
+-ML Engineer — 5.42
+-QA Engineer — 5.41
+
+This shows:
+
+-Deadline pressure and low autonomy are key burnout drivers for these roles
+-HR interventions should prioritize these groups first
+
+6. 32,000 Employees Plan to Leave
+
+Out of 100,000 employees:
+
+-32,000 indicate intention to change jobs
+-Majority of these come from the High and Severe burnout groups
+
+This shows:
+
+-A significant retention risk is currently unaddressed
+-Proactive mental health intervention can directly reduce attrition numbers
+---
+Business Recommendations :
+Based on the insights, the following strategies are recommended:
+
+-Launch anonymous, manager-bypassed mental health check-ins to close the therapy utilization gap
+-Design structured remote work policies — async norms, camera-off meetings, reduced meeting load
+-Build a Burnout Early Warning System flagging employees with high stress + high burnout + low sleep
+-Target Product Managers and Backend Developers first for mental health support programs
+-Treat burnout as a financial metric — present attrition cost data to CFO and C-Suite regularly
+-Monitor therapy utilization rates alongside access rates to measure actual program effectiveness
+---
+Project Impact :
+
+This dashboard enables organizations to:
+
+-Identify high-risk employee segments before they become attrition statistics
+-Monitor burnout severity and therapy utilization in real time
+-Understand the clinical and behavioral drivers of mental health decline
+-Build targeted, data-backed mental health programs
+-Quantify the financial cost of burnout for leadership decision-making
+
+The insights derived from this analysis can help organizations move from reactive HR to proactive workforce mental health management.
+---
+Author :
+Aditya Bramhwanshi
