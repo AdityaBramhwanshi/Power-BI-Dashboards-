@@ -1,0 +1,119 @@
+Project Title : 
+
+Bank Customer Churn Analysis Dashboard
+
+A data analytics project analyzing customer churn patterns in a bank using Power BI to identify high-risk customer segments 
+and financial impact.
+
+Project Overview :
+
+Customer churn is a critical challenge in the banking industry because retaining customers is significantly cheaper than 
+acquiring new ones.
+This project analyzes customer churn patterns using data visualization and business intelligence techniques to help 
+management identify :
+
+-churn drivers
+-high-risk customers
+-financial exposure due to churn
+-opportunities to improve customer retention
+
+Business Problem :
+
+The bank observed a significant number of customers closing their accounts, but management lacked insights into:
+
+-Which customers are leaving
+-Why they are leaving
+-Which segments have the highest churn risk
+-The financial impact of customer churn
+
+Without these insights, it becomes difficult to implement effective retention strategies.
+
+Project Objectives :
+
+The objective of this project is to build an interactive Power BI dashboard that helps the bank:
+
+-Measure customer churn rate
+-Identify high-risk customer segments
+-Analyze churn by demographic and behavioral factors
+-Quantify financial impact of customer churn
+-Support data-driven decision making
+
+Dataset :
+
+Source: Kaggle
+
+Dataset: Bank Customer Churn Dataset
+
+The dataset contains customer information including:
+
+-Customer ID
+-Age
+-Geography
+-Gender
+-Credit Score
+-Number of Products
+-Account Balance
+-Credit Card Ownership
+-Active Member Status
+-Churn Indicator
+
+Tools & Technologies Used :
+
+-Microsoft Power BI
+-DAX (Data Analysis Expressions)
+-Data Cleaning
+-Data Visualization
+-Business Intelligence
+
+Dashboard KPIs :
+
+The dashboard tracks key business metrics including:
+
+-Total Customers
+-Churned Customers
+-Churn Rate
+-Balance at Risk
+-Average Credit Score of Churned Customers
+
+These KPIs provide a high-level overview of customer attrition and financial impact.
+
+Key Insights :
+1️⃣ High Customer Churn Rate
+The analysis shows a 24% churn rate, meaning nearly one in four customers leaves the bank.
+
+2️⃣ Geographic Differences in Churn
+Customers in Germany show the highest churn rate, indicating potential regional service or competition issues.
+
+3️⃣ Older Customers Are More Likely to Churn
+Customers aged 40+ exhibit higher churn behavior, suggesting the need for targeted retention strategies.
+
+4️⃣ Customers with Fewer Products Are More Likely to Leave
+Customers with only one product show significantly higher churn rates.
+
+This indicates low engagement with the bank.
+
+5️⃣ Inactive Customers Are at High Risk
+Inactive customers are significantly more likely to churn than active customers.
+
+Customer inactivity can act as an early warning signal for churn risk.
+
+Business Recommendations :
+
+Based on the insights, the following data-driven strategies are recommended:
+
+-Implement customer engagement campaigns for inactive users
+-Promote cross-selling to increase product adoption
+-Launch targeted retention campaigns in high-churn regions
+-Introduce personalized financial products for older customers
+-Offer incentives for credit card adoption to improve customer engagement
+
+Project Impact :
+
+This dashboard enables the bank to:
+
+-identify high-risk customer segments
+-monitor churn trends
+-estimate financial risk from customer attrition
+-implement proactive retention strategies
+
+The insights I got from this analysis can significantly help reduce churn and improve customer lifetime value.
